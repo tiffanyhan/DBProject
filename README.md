@@ -1,17 +1,3 @@
 # DBProject
 
-##feature ideas:
-
-- featured pokemon carousel - https://pokeapi.co/
-- pokegyms around campus - map
-
-- events?
-
-##TODO:
-
-- make home page responsive (bootstrap)
-- fix styles for map
-
-##IDEALLY ADD:
-- random pokemon of the day
-- let users add stops and gyms?!!
+A front-end client for a map-centric app that serves as an index of Pokemon GO gyms and stops around the UCLA campus. Made during Daily Bruin Developers training.
